@@ -1,15 +1,20 @@
-# My_First_Social_media_App
+# ✈️ FlightApp
 
-A Social media app where you can make posts , like others posts, and comment on them, back end done using fire base.
-## Getting Started
+FlightApp is a Flutter-based mobile application that provides information about flights ✈️, approximate prices 💲, and allows users to shop 🛍️ for unique items from different global locations 🌍.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse hotels and view approximate prices.
+- Shop for unique items from different global locations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## About
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FlightApp is a collaborative project where I've contributed to fixing bugs 🐛, setting up Firebase integration 🔥, and implementing user authentication 🔐.
+
+## Contribution
+
+I've contributed to FlightApp by:
+- Fixing bugs and improving app stability.
+- Setting up Firebase for real-time updates and user authentication.
+
+
